@@ -1,0 +1,7 @@
+
+
+Reflection attacks against symmetric key-based authentication involve intercepting authentication requests and sending them back to the user, tricking them into authenticating themselves and capturing their responses.
+Countermeasures against reflection attacks include implementing challenge-response mechanisms, using timestamps or nonces, employing cryptographic authentication protocols, and ensuring secure transmission channels.
+A man-in-the-middle (MITM) attack occurs when an attacker intercepts and alters communication between two parties, posing as the legitimate sender to the recipient and vice versa.
+Countermeasures against MITM attacks involve implementing end-to-end encryption, using digital signatures for message integrity, employing certificate-based authentication, and establishing secure communication channels using protocols like SSL/TLS.
+
